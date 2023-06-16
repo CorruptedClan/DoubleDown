@@ -2,9 +2,9 @@ local whitelist = {
 
     Usernames = {
 
-        "Username1",
+        "Wizard_CatWhite",
 
-        "Username2",
+        "TRUZER68",
 
         "Username3",
 
