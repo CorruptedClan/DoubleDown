@@ -7,6 +7,8 @@ local whitelist = {
         "TRUZER68",
 
         "EeMe6i",
+     
+        "CuteG0D",
 
     },
 
