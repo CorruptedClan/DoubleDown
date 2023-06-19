@@ -6,7 +6,7 @@ local whitelist = {
 
         "TRUZER68",
 
-        "Username3",
+        "EeMe6i",
 
     },
 
