@@ -3,7 +3,7 @@ local whitelist = {
         "Wizard_CatWhite",
         "EeMe6i",
         "CuteG0D",
-        "urmyvip",
+        "Urmyvip",
     },
     UserIds = {
         00000000,
