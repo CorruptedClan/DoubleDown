@@ -5,6 +5,7 @@ local whitelist = {
         "CuteG0D",
         "Urmyvip",
         "DEDSHOTlostsaccount",
+        "Ishowspeed5538",
         
     },
     UserIds = {
