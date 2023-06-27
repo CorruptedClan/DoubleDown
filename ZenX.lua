@@ -10,7 +10,7 @@ local whitelist = {
         "Anime_FanOnePiece",
         "Truxer68",
         "hvllsgrave",
-        "username",
+        "Kups566",
         
     },
     UserIds = {
