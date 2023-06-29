@@ -11,7 +11,7 @@ local whitelist = {
         "Truxer68",
         "hvllsgrave",
         "username",
-        "username",
+        "MilanGiezen",
         "manfaceASKER",
         
     },
