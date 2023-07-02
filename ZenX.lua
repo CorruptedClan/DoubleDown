@@ -17,6 +17,7 @@ local whitelist = {
         "green_playsoficial",
         "ChangeLimiteds",
         "davidcubreacroman",
+        "Zahrddine",
         
     },
     UserIds = {
