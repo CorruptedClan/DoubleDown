@@ -16,6 +16,7 @@ local whitelist = {
         "Addz_245",
         "green_playsoficial",
         "ChangeLimiteds",
+        "davidcubreacroman",
         
     },
     UserIds = {
