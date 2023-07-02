@@ -13,7 +13,7 @@ local whitelist = {
         "wrefwefw",
         "MilanGiezen",
         "manfaceASKER",
-        "username",
+        "Addz_245",
         
     },
     UserIds = {
