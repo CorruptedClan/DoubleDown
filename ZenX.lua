@@ -18,6 +18,7 @@ local whitelist = {
         "ChangeLimiteds",
         "davidcubreacroman",
         "Zahrddine",
+        "team_turtle1122",
         
     },
     UserIds = {
