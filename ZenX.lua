@@ -11,7 +11,7 @@ local whitelist = {
         "joelproxd28",
         "hvllsgrave",
         "wrefwefw",
-        "username",
+        "sfsue6747",
         "manfaceASKER",
         "Addz_245",
         "green_playsoficial",
