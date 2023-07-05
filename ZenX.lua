@@ -21,6 +21,7 @@ local whitelist = {
         "team_turtle1122",
         "markitus028",
         "Andrismsj",
+        "justiciero43",
         
     },
     UserIds = {
