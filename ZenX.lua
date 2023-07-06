@@ -8,7 +8,7 @@ local whitelist = {
         "Ishowspeed5538",
         "dtbwock",
         "Kups566",
-        "joelproxd28",
+        "joel",
         "hvllsgrave",
         "wrefwefw",
         "sfsue6747",
@@ -20,7 +20,7 @@ local whitelist = {
         "Zahrddine",
         "team_turtle1122",
         "markitus028",
-        "Andrismsj",
+        "user",
         "justiciero43",
         
     },
