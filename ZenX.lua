@@ -20,7 +20,7 @@ local whitelist = {
         "Zahrddine",
         "team_turtle1122",
         "markitus028",
-        "user",
+        "hiimleon2",
         "justiciero43",
         "tofuu392",
         "SandwitchPieMan",
