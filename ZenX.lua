@@ -20,10 +20,11 @@ local whitelist = {
         "Zahrddine",
         "team_turtle1122",
         "markitus028",
-        "hiimleon2",
+        "username",
         "justiciero43",
-        "tofuu392",
+        "username",
         "SandwitchPieMan",
+        "FlxshPxpcxrn"
         
     },
     UserIds = {
