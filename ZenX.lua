@@ -27,6 +27,7 @@ local whitelist = {
         "FlxshPxpcxrn",
         "DarkSheadow3",
         "gigabanana911",
+        "@naufalafif080419",
         
     },
     UserIds = {
