@@ -26,6 +26,7 @@ local whitelist = {
         "SandwitchPieMan",
         "FlxshPxpcxrn",
         "DarkSheadow3",
+        "gigabanana911",
         
     },
     UserIds = {
