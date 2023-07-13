@@ -22,7 +22,7 @@ local whitelist = {
         "markitus028",
         "nikhilsinght",
         "username",
-        "username",
+        "its_s1lent",
         "SandwitchPieMan",
         "FlxshPxpcxrn",
         "DarkSheadow3",
