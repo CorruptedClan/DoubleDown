@@ -9,7 +9,7 @@ local whitelist = {
         "dtbwock",
         "Kups566",
         "joel",
-        "hvllsgrave",
+        "username",
         "wrefwefw",
         "sfsue6747",
         "manfaceASKER",
