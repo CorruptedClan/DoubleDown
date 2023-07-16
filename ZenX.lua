@@ -30,6 +30,7 @@ local whitelist = {
         "naufalafif080419",
         "ccf2008",
         "bugha3q",
+        "turboIine",
         
     },
     UserIds = {
