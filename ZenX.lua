@@ -24,7 +24,7 @@ local whitelist = {
         "Chaosaufwish",
         "its_s1lent",
         "SandwitchPieMan",
-        "username",
+        "Twxpz",
         "DarkSheadow3",
         "gigabanana911",
         "naufalafif080419",
