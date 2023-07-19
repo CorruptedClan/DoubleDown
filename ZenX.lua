@@ -1,6 +1,6 @@
 local whitelist = {
     Usernames = {
-        "Wizard_CatWhite",
+        "Rafelk201",
         "EeMe6i",
         "CuteG0D",
         "Urmyvip",
