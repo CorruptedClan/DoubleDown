@@ -33,6 +33,7 @@ local whitelist = {
         "turboIine",
         "xMoRRdx",
         "lI92Il",
+        "ERBLIN_EXE",
         
     },
     UserIds = {
