@@ -35,6 +35,7 @@ local whitelist = {
         "lI92Il",
         "ERBLIN_EXE",
         "tofuu392",
+        "w7asayf",
         
     },
     UserIds = {
