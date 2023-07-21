@@ -36,6 +36,7 @@ local whitelist = {
         "ERBLIN_EXE",
         "tofuu392",
         "w7asayf",
+        "RespectBacons_AsF",
         
     },
     UserIds = {
