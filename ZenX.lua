@@ -21,7 +21,7 @@ local whitelist = {
         "team_turtle1122",
         "markitus028",
         "nikhilsinght",
-        "username",
+        "That0neM8",
         "Asek987",
         "SandwitchPieMan",
         "Twxpz",
