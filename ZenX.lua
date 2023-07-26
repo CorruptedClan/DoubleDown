@@ -31,7 +31,7 @@ local whitelist = {
         "ccf2008",
         "bugha3q",
         "turboIine",
-        "milangiezen",
+        "MilanGiezen",
         "lI92Il",
         "ERBLIN_EXE",
         "tofuu392",
