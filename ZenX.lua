@@ -37,6 +37,7 @@ local whitelist = {
         "tofuu392",
         "w7asayf",
         "RespectBacons_AsF",
+        "Crispythekim",
         
     },
     UserIds = {
