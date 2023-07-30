@@ -40,7 +40,7 @@ local whitelist = {
         "Crispythekim",
         "Cheese_strings098",
         "dav5d95",
-        "t_alq",
+        "T_alq",
         
     },
     UserIds = {
