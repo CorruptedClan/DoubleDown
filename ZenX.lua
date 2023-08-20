@@ -41,6 +41,7 @@ local whitelist = {
         "Cheese_strings098",
         "dav5d95",
         "T_alq",
+        "Fr_oz0",
         
     },
     UserIds = {
