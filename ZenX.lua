@@ -36,7 +36,7 @@ local whitelist = {
         "crxkn",
         "tofuu392",
         "w7asayf",
-        "Disturbed_Roblox",
+        "",
         "Crispythekim",
         "Cheese_strings098",
         "dav5d95",
