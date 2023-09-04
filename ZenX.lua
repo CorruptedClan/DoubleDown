@@ -7,7 +7,7 @@ local whitelist = {
         "DEDSHOTlostsaccount",
         "Ishowspeed5538",
         "dtbwock",
-        "myboyflameboy",
+        "",
         "joel",
         "TRUXER68",
         "wrefwefw",
@@ -41,9 +41,9 @@ local whitelist = {
         "Cheese_strings098",
         "dav5d95",
         "T_alq",
-        "Fr_oz0",
-        "pysito33",
-        "akaunt657",
+        "",
+        "",
+        "",
         
     },
     UserIds = {
